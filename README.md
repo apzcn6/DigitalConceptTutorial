@@ -8,7 +8,7 @@ The target Audience is anyone trying to create a brand new partition on a harddr
 
 Make a full image backup of the entire drive. 
 
-If you are not sure how to make image backups click *[this link ](https://github.com/apzcn6/DigitalConceptTutorial/blob/master/imagebackup.md)*.
+If you are not sure how to make image backups click **[this link ](https://github.com/apzcn6/DigitalConceptTutorial/blob/master/imagebackup.md)**.
 
 
 # Step 2 
