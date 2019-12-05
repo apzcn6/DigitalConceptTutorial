@@ -33,4 +33,8 @@ If your have a disc reader you will want to create the repair disk.
 
 If your pc does not have one then you can use a falsh drive to create a repair drive. 
 
-# Finsihed
+# Step 6
+
+Finish the partition!
+
+You can click **[here](https://github.com/apzcn6/DigitalConceptTutorial/blob/master/README.md.)** to go back to the partitioning guide
