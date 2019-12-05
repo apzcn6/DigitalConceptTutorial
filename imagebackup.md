@@ -37,4 +37,4 @@ If your pc does not have one then you can use a falsh drive to create a repair d
 
 Finish the partition!
 
-You can click **[here](https://github.com/apzcn6/DigitalConceptTutorial/blob/master/README.md.)** to go back to the partitioning guide
+You can click **[here](https://github.com/apzcn6/DigitalConceptTutorial/blob/master/README.md)** to go back to the partitioning guide
